@@ -45,7 +45,9 @@ The solution is then printed by marking the path on the maze grid.
 Usage
 
 To use this program, compile it with a C++ compiler and provide the maze dimensions and cell values as input. The program will then print the solved maze with the shortest path marked.
+
 $ g++ maze_solver.cpp -o maze_solver
+
 $ ./maze_solver
 
 
